@@ -3,4 +3,6 @@
 ## Library used
 - Tkinter
 
+# Previews
+![prev.gif](prev.gif)
 ![prev](preview.png)
